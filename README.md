@@ -19,10 +19,10 @@ This repository contains helpful scripts, templates, and modules for developing 
 
 ### Included:
 
-- Templates for ServerScripts and LocalScripts
+- Templates for Uis Scripts and Utility(s)
 - Modules with reusable functions
-- Best practices for Roblox development
-- Example scripts for common game mechanics
+- Best practices and Learning Sources
+- Example scripts for common use
 
 ---
 
