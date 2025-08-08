@@ -1,6 +1,6 @@
-# Roblox Lua Script Resources
+# Lua Script Resources
 
-> A collection of useful resources, templates, and examples for scripting in Roblox using Lua.
+> A collection of useful resources, templates, UIs, and examples for scripting in Roblox using Lua.
 
 ## Table of Contents
 
@@ -15,7 +15,7 @@
 
 ## Overview
 
-This repository contains helpful scripts, templates, and modules for developing Roblox games. The resources are suitable for both beginners and advanced developers and are designed to support clean, reusable, and efficient Lua code.
+This repository contains helpful scripts, templates ,UIs , and modules for developing Roblox Scripts. The resources are suitable for both beginners and advanced developers.
 
 ### Included:
 
@@ -40,5 +40,5 @@ This repository contains helpful scripts, templates, and modules for developing 
 1. Download or clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/roblox-lua-resources.git
-   cd roblox-lua-resources
+   git clone https://github.com/0x340/assets.git
+   cd assets
