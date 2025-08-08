@@ -10,7 +10,6 @@
 - [Verwendung](#verwendung)
 - [Beispiele](#beispiele)
 - [Mitwirken](#mitwirken)
-- [Lizenz](#lizenz)
 
 ---
 
@@ -31,11 +30,8 @@ Dieses Repository enthält nützliche Skripte, Vorlagen und Module für die Entw
 
 | Ordner / Datei          | Beschreibung                                                |
 |-------------------------|-------------------------------------------------------------|
-| `templates/`            | Vorlagen für häufig verwendete Skripttypen                  |
-| `modules/`              | Wiederverwendbare ModuleScripts                             |
-| `examples/`             | Vollständige Beispielskripte mit Kommentaren                |
-| `snippets/`             | Kleine Codeausschnitte für alltägliche Aufgaben             |
-| `docs/`                 | Dokumentationen und Best Practices                          |
+| `uis/`                  | Public / Leaked User Interfaces                             |
+| `src/`                  | Scripts / Moduels                                           |
 
 ---
 
