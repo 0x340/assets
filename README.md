@@ -1,1 +1,3 @@
-prvt stuff like type sh
+
+
+# prvt stuff like type sh
