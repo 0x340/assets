@@ -1,3 +1,47 @@
+# Roblox Lua Skript-Ressourcen
 
+> Eine Sammlung von nützlichen Ressourcen, Vorlagen und Beispielen für die Skript-Entwicklung in Roblox mit Lua.
 
-# prvt stuff like type sh
+## Inhaltsverzeichnis
+
+- [Überblick](#überblick)
+- [Inhalt](#inhalt)
+- [Erste Schritte](#erste-schritte)
+- [Verwendung](#verwendung)
+- [Beispiele](#beispiele)
+- [Mitwirken](#mitwirken)
+- [Lizenz](#lizenz)
+
+---
+
+## Überblick
+
+Dieses Repository enthält nützliche Skripte, Vorlagen und Module für die Entwicklung von Roblox-Spielen. Die Ressourcen eignen sich sowohl für Anfänger als auch für fortgeschrittene Entwickler und helfen dabei, sauberen, wiederverwendbaren und effizienten Lua-Code zu schreiben.
+
+### Enthalten sind:
+
+- Vorlagen für Server- und LocalScripts
+- Module mit wiederverwendbaren Funktionen
+- Best Practices zur Roblox-Entwicklung
+- Beispielskripte für typische Spielmechaniken
+
+---
+
+## Inhalt
+
+| Ordner / Datei          | Beschreibung                                                |
+|-------------------------|-------------------------------------------------------------|
+| `templates/`            | Vorlagen für häufig verwendete Skripttypen                  |
+| `modules/`              | Wiederverwendbare ModuleScripts                             |
+| `examples/`             | Vollständige Beispielskripte mit Kommentaren                |
+| `snippets/`             | Kleine Codeausschnitte für alltägliche Aufgaben             |
+| `docs/`                 | Dokumentationen und Best Practices                          |
+
+---
+
+## Erste Schritte
+
+1. Repository herunterladen oder klonen:
+
+   ```bash
+   git clone https://github.com/deinbenutzername/roblox-lua-resources.git
