@@ -16,7 +16,7 @@ local Library, Esp, MiscOptions, Options = loadstring(game:HttpGet("https://raw.
 local Holder = Library:Window({Name = "Octohook"})
 
 local Window = Holder:Panel({
-    Name = "Menu", 
+    Name = "femboyhook trust", 
     ButtonName = "Menu", 
     Size = dim_offset(550, 709), 
     Position = dim2(0, (Camera.ViewportSize.X / 2) - 550/2, 0, (Camera.ViewportSize.Y / 2) - 709/2), -- offset based on sizing 
